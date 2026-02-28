@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Shayari&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
@@ -18,7 +18,7 @@
 
 ## About Me
 
-<div align="center">
+<div align="left">
 
 | | |
 |:---:|:---|
@@ -33,7 +33,7 @@
 
 ## Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Languages**
 
@@ -84,7 +84,7 @@
 
 ## Featured Projects
 
-<div align="center">
+<div align="left">
 
 | &nbsp; | Project | What it does | Stack |
 |:---:|---|---|---|
@@ -101,7 +101,7 @@
 
 ## GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shayari08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" height="165"/>
 &nbsp;&nbsp;
