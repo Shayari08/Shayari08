@@ -18,14 +18,16 @@
 
 ## About Me
 
-```python
-shayari = {
-    "focus"     : ["AI/ML", "Full-Stack", "Developer Tools"],
-    "building"  : "LLM-powered apps that are actually useful",
-    "stack"     : ["Python", "TypeScript", "React", "Node.js"],
-    "interests" : ["RAG pipelines", "Voice AI", "Computer Vision", "Productivity tools"],
-}
-```
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🎯 | Focused on **AI/ML**, **Full-Stack**, and **Developer Tools** |
+| 🔨 | Currently building LLM-powered apps that are actually useful |
+| 🧠 | Deep interest in **Generative AI**, **Deep Learning**, and **Traditional ML** |
+| 🌱 | Always exploring what the next model release makes possible |
+
+</div>
 
 <br/>
 
